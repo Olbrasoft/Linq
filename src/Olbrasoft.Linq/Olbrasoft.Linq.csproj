@@ -9,5 +9,13 @@
     <RepositoryUrl>https://github.com/Olbrasoft/Linq</RepositoryUrl>
     <RepositoryType>Library net standart</RepositoryType>
     <PackageTags>Linq extensions Enumerable</PackageTags>
+    <PackageIcon>olbrasoft-linq.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\olbrasoft-linq.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 </Project>
