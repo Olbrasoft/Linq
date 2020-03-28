@@ -2,5 +2,12 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard1.6;netstandard2.0;netstandard2.1;</TargetFrameworks>
+    <Authors>Jiří Tůma</Authors>
+    <Company>Olbrasoft</Company>
+    <Description>Classes and extensions from namespace system.Linq</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/Olbrasoft/Linq</RepositoryUrl>
+    <RepositoryType>Library net standart</RepositoryType>
+    <PackageTags>Linq extensions Enumerable</PackageTags>
   </PropertyGroup>
 </Project>
